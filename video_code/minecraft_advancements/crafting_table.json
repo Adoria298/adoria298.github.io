@@ -1,0 +1,23 @@
+{
+	"criteria": {
+		"crafting_table": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:crafting_table"
+					}
+				]
+			}
+		}
+	},
+	"parent": "learn_to_code:root",
+	"display": {
+		"icon": {
+			"item": "minecraft:crafting_table"
+		},
+		"title": "Criteria",
+		"description": "The essential thing",
+		"frame": "goal"
+	}
+}

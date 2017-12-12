@@ -1,0 +1,33 @@
+{
+	"criteria": {
+		"enchantment_table": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:enchanting_table"
+					}
+				]
+			}
+		},
+		"brewing_stand": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:brewing_stand"
+					}
+				]
+			}
+		}
+	},
+	"parent": "learn_to_code:crafting_table",
+	"display": {
+		"icon": {
+			"item": "minecraft:stick"
+		},
+		"title": "You're a wizard!!",
+		"description": "Next Stop on Platform ...",
+		"frame": "task"
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"criteria": {
+		"awkward potion": {
+			"trigger": "minecraft:brewed_potion",
+			"conditions": {
+				"potion": "minecraft:awkward"
+			}
+		}
+	},
+	"parent": "learn_to_code:wizard",
+	"display": {
+		"icon": {
+			"item": "minecraft:potion"
+		},
+		"title": "Brewer!",
+		"description": "Use your brewing stand.",
+		"frame": "task"
+	},
+	"rewards": {
+		"recipes": [
+			"minecraft:ender_eye",
+			"minecraft:furnace"
+		],
+		"loot": [
+			"minecraft:gameplay/fishing/treasure",
+			"minecraft:entities/enderman"
+		],
+		"experience": 298, 
+		"function": "learn_to_code:advancements"
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"criteria": {
+		"chest": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:chest"
+					}
+				]
+			}
+		},
+		"trapped_chest": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:trapped_chest"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		["chest", "trapped_chest"]
+	],
+	"parent": "learn_to_code:crafting_table",
+	"display": {
+		"icon": {
+			"item": "minecraft:chest"
+		},
+		"title": "Space!",
+		"description": "A Branch",
+		"frame": "task"
+	}
+}

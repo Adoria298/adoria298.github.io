@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"change_inventory": {
+			"trigger": "minecraft:inventory_changed"
+		}
+	},
+	"display": {
+		"icon": {
+			"item": "minecraft:knowledge_book"
+		},
+		"title": "LearnToCode",
+		"description": "The Root",
+		"frame": "task",
+		"background": "minecraft:textures/blocks/bookshelf.png"
+	}
+}
