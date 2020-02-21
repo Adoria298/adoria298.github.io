@@ -1,3 +1,7 @@
+# adoria298.github.io
+
+This was on Github Pages. I decided to take it down, but I did not want to delete it. Therefore, I made this `backup` branch, so that I could delete the `master` branch in peace. This commit and the following deletion of `master` are the only changes.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Adoria298/adoria298.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
