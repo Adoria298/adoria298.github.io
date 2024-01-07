@@ -8,6 +8,8 @@ Here is a list of my favourite projects:
 
 3. [heis](https://www.github.com/Adoria298/heis) is a multiplayer command line implementation of UNO.
 
+4. [attested-conjectures](https://t18d.github.io/attested-conjectures) is a database of conjectures attested in Greco-Roman papyri that I created and began populating as part of an internship for [Tonkünstler-on-the-Bund](https://t18d.github.io).
+
 4. [lunometer](https://www.github.com/Adoria298/lunometer) converts the UK Government's API-provided JSON into CSV that plots the height of the River Lune.
 
 ### Forks
