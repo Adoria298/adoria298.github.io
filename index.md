@@ -1,3 +1,9 @@
+## Blog
+
+I'm starting a blog!
+
+Latest post: [Knitting and Purling, 24th March 2026](/blog/2026-03-04-untangling.md)
+
 ## Projects
 
 Here is a list of my favourite projects:
